@@ -20,6 +20,7 @@ end
 
 def read_from_hash(hash, key)
   binding.pry
+  read_from_has
 end
 
 def update_counting_hash(hash, key)
